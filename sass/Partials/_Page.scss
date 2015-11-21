@@ -1,0 +1,10 @@
+body {
+    background-color: $color-light;
+    #container {
+        max-width: $grid-content-maxwidth;
+        padding: 0;
+        .skip-container {
+        	display: none;
+        }
+    }
+}

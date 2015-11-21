@@ -1,0 +1,6 @@
+@mixin limit-width-and-center-wrap {
+    float: none !important;
+    max-width: $grid-content-inner-maxwidth;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}

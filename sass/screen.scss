@@ -1,0 +1,22 @@
+@import "compass/reset";
+
+@import "Partials/Base";
+
+// Partials
+@import "Partials/Typography";
+@import "Partials/Fonts";
+@import "Partials/Header";
+@import "Partials/Logo";
+@import "Partials/Navigation";
+@import "Partials/Page";
+@import "Partials/Grid";
+@import "Partials/Content";
+@import "Partials/Buttons";
+@import "Partials/Footer";
+@import "Partials/Widgets";
+
+// Plugins
+// The vendor directory is for WordPress plugins or vendor styles or other custom elements.
+@import "Vendor/ContactForm7";
+@import "Vendor/SliderCustom";
+@import "Vendor/ContactButton"

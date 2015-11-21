@@ -1,0 +1,26 @@
+/* Init custom fonts. Replace with your existing local fonts. */
+@font-face {
+    font-family: 'CustomFont';
+    src: url("../fonts/custom-font-regular.eot");
+    src: url("../fonts/custom-font-regular.eot?") format("eot"), url("../fonts/custom-font-regular.ttf") format("truetype"), url("../fonts/custom-font-regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'CustomFont';
+    src: url("../fonts/custom-font-bold.eot");
+    src: url("../fonts/custom-font-bold.eot?") format("eot"), url("../fonts/custom-font-bold.ttf") format("truetype"), url("../fonts/custom-font-bold.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'CustomFontMedium';
+    src: url("../fonts/custom-font-medium.eot");
+    src: url("../fonts/custom-font-medium.eot?") format("eot"), url("../fonts/custom-font-medium.ttf") format("truetype"), url("../fonts/custom-font-medium.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}

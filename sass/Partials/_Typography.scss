@@ -1,0 +1,42 @@
+html * {
+    font-family: $font-family;
+    font-weight: 300;
+    color: $color-font;
+    font-size: $font-size-medium;
+    line-height: $font-lineheight-medium;
+    vertical-align: top;
+}
+
+b,
+strong {
+    font-weight: bold;
+}
+
+i,
+em {
+    font-style: italic;
+}
+
+#{headings(all)} {
+    font-weight: normal;
+}
+
+h1 {
+    font-size: $font-size-large;
+    line-height: $font-lineheight-large;
+}
+
+h2,
+h3 {
+    font-size: $font-size-big;
+    line-height: $font-lineheight-big;
+}
+
+h4 {
+    font-size: $font-size-medium;
+    line-height: $font-lineheight-medium;
+}
+
+a {
+    color: $color-custom-blue;
+}

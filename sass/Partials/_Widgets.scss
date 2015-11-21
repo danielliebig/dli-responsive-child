@@ -1,0 +1,15 @@
+// This is just a demo for my custom Visual Composer widgets (not implemented here).
+// Feel free to remove this stuff.
+.wrap-text_image_50_50 {
+    .col-inner {
+        padding: 0;
+        img {
+            margin: 0;
+            margin-bottom: 1%;
+        }
+        h3 {
+            font-size: $font-size-large;
+            line-height: $font-lineheight-large;
+        }
+    }
+}

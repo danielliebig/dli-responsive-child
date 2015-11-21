@@ -1,0 +1,27 @@
+// Global color definitions
+$color-light:					#fff;
+$color-dark:					#000;
+$color-custom-gray:				#eee;
+$color-custom-gold:				#ffd700;
+$color-custom-blue:				#00f;
+
+$color-border:					#c3c3c3;
+
+// Background color definitions
+$color-background-light: 		$color-light;
+$color-background-dark:			$color-dark;
+
+// Font color definitions
+$color-font-light:				$color-light;
+$color-font-dark:				$color-dark;
+$color-font:					$color-font-dark;
+
+$color-link:                    $color-custom-blue;
+$color-link-hover:              $color-link;
+$color-link-active:             $color-link;
+$color-link-focus:              $color-link;
+$color-link-visited:            $color-link;
+
+// Notifications
+$color-error:                   red;
+$color-success:                 green;
